@@ -84,11 +84,7 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hallo {mention} \n"
         "Ini bot buat string session\n\n"
-        "This is an Open Source Project"
-        "Thanks To @SpEcHIDe
-        "Pokoknya ini buat stringsession
-        "https://github.com/AntXpras\n"
-        "ℹ️ Subscribe @SpEcHlDe and @lordofthehuman if you using the bot ∆"
+        "oke sekian..."
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
