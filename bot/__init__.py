@@ -82,11 +82,13 @@ AVAILABLE_CODE_RECVING_OPTIONS = {
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
-        "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Hallo {mention} \n"
+        "Ini bot buat string session\n\n"
+        "This is an Open Source Project"
+        "Thanks To @SpEcHIDe
+        "Pokoknya ini buat stringsession
+        "https://github.com/AntXpras\n"
+        "ℹ️ Subscribe @SpEcHlDe and @lordofthehuman if you using the bot ∆"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -139,8 +141,10 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
-    "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
-    "👆👆👆 String Session successfully generated 👆👆👆"
+    "Ini bot buat string session\n\n"
+        "This is an Open Source Project"
+        "Thanks To @SpEcHIDe
+        "Pokoknya ini buat stringsession
+        "https://github.com/AntXpras\n"
+        "↗String Session successfully generated ↖"
 ))
