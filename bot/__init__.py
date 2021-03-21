@@ -142,9 +142,5 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Ini bot buat string session\n\n"
-        "This is an Open Source Project"
-        "Thanks To @SpEcHIDe
-        "Pokoknya ini buat stringsession
-        "https://github.com/AntXpras\n"
-        "↗String Session successfully generated ↖"
+    "String session generate sukses..."   
 ))
