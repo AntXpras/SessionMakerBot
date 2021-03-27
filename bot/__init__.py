@@ -83,29 +83,29 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "Hallo {mention} \n"
-        "Ini bot buat string session\n\n"
-        "oke sekian..."
+        "I'am Bot String Session generator\n\n"
+        "Silahkan..."
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
-    "Enter the Phone Number that you want to make awesome."
+    "Masukan Nomor telepon."
 ))
 RECVD_PHONE_NUMBER_DBP = get_config("RECVD_PHONE_NUMBER_DBP", (
-    "checking received phone number \n\n"
-    ">> the Process Takes a Long Time,\n"
+    "Mengecek riwayat catatan string session \n\n"
+    ">> Proses ini membutuhkan waktu yg panjang,\n"
     ">>> Please be Patient,\n\n"
-    "<b>Never Submit Again</b> \n"
+    "<b>Masukan Kembali</b> \n"
     "<b><i><u>It'll ruin the System</u></i></b>"
 ))
 ALREADY_REGISTERED_PHONE = get_config("ALREADY_REGISTERED_PHONE", (
-    "This number is registered on Telegram. "
-    "Please input the verification code that you receive "
-    "from <a href='tg://user?id=777000'>Telegram</a> "
+    "Nomor sudah registrasi di telegram. "
+    "Masukan Kode verifykasi "
+    "Dari <a href='tg://user?id=777000'>Telegram</a> "
     "seperated by space, "
-    "else a PhoneCodeInvalidError would be raised."
+    "Kode telepon erorr."
 ))
 CONFIRM_SENT_VIA = get_config("CONFIRM_SENT_VIA", (
-    "The confirmation code has been sent via {}"
+    "Kode konfirmasi sudah dikirim melalui {}"
 ))
 RECVD_PHONE_CODE = get_config("RECVD_PHONE_CODE", (
     "checking received phone code \n\n"
@@ -133,10 +133,10 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
     "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
+    "!!! "
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
-    "Ini bot buat string session\n\n"
-    "String session generate sukses..."   
+    "String session bot\n\n"
+    "String session generator berhasil..."   
 ))
